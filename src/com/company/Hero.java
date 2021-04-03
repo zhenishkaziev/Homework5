@@ -17,10 +17,10 @@ public class Hero {
         return superPower;
     }
 
-    public Hero(int health, int take, String superpower){
+    public Hero(int health, int take, String superPower){
         this.health = health;
          this.take = take;
-         this.superPower = superpower;
+         this.superPower = superPower;
 
     }
      public Hero (int take, int health){
